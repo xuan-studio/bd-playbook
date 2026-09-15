@@ -6,7 +6,7 @@
 
 - [阅读第一篇：创业团队如何低成本搭建 BD 系统](book/01-bd-guide.md)
 - [后续更新计划](ROADMAP.md)
-- [提交建议、案例或纠错](https://github.com/wrx1234/bd-playbook/issues)
+- [提交建议、案例或纠错](https://github.com/xuan-studio/bd-playbook/issues)
 - [如何参与](CONTRIBUTING.md)
 
 ## 这篇文章只是开始

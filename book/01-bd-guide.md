@@ -226,7 +226,7 @@ Milestone 可以分几类：第一，简单处理之后，对方有回复了；�
 
 **想继续看，先关注我，也可以去 GitHub 点个 Star。想拿到我正在用的散客自动营销方案和部署流程，就直接私信我。**
 
-[GitHub 书籍：创业团队 BD 系统不完全指南](https://github.com/wrx1234/bd-playbook)
+[GitHub 书籍：创业团队 BD 系统不完全指南](https://github.com/xuan-studio/bd-playbook)
 
 ## 上面是对带队的人，下面说说个人 BD
 
