@@ -6,9 +6,9 @@
 
 | 系统 | 用途 | 当前公开内容 | 入口 |
 | --- | --- | --- | --- |
-| Telegram 频道预处理台 | 公开社群研究、联系线索及导出 | 独立源码、虚构演示、部署说明；项目许可证待定 | [介绍](01-channel-preprocessor.md) |
+| Telegram 频道预处理台 | 公开社群研究、联系线索及导出 | 独立源码、虚构演示、部署说明；MIT 许可证 | [介绍](01-channel-preprocessor.md) |
 | BD 合作沟通工作台 | 知识库对话、合作推进及人工审批 | MIT 源码、本地演示、可选 AI 模式 | [介绍](02-partnership-chat.md) |
-| 账号管理与任务执行 | 整理任务、人工审批和执行复盘 | Pengbo 配套说明、虚构示例；不含第三方程序 | [介绍](03-account-operations.md) |
+| 账号管理与任务执行 | 整理任务、人工审批和执行复盘 | Pengbo 配套说明、虚构示例与 Release 安装包 | [介绍](03-account-operations.md) |
 | 人工监测 Dashboard | 汇总停滞会话、合作节点及接手任务 | 规划中，未实现 | [规划](04-human-dashboard.md) |
 
 ## 如何使用这几个系统

@@ -11,7 +11,7 @@
 - [独立仓库](https://github.com/xuan-studio/pengbo-bd-guide)
 - [部署说明](https://github.com/xuan-studio/pengbo-bd-guide/blob/main/docs/安装与排错.md)
 
-本仓库不提供安装包；取得供应方合法软件后参考文档。
+[下载 Windows x64 便携包](https://github.com/xuan-studio/pengbo-bd-guide/releases/tag/windows-dev-review-1)，先阅读安装文档；此 dev 包未完成 Windows 独立部署验证。
 
 ## 输入与输出
 
@@ -21,7 +21,7 @@
 
 ## 当前状态
 
-第三方 Windows 包未上传；公开的是配套文档和示例，尚无独立许可证。
+配套文档和虚构示例采用 MIT；第三方 Windows 程序在 Release 提供，MIT 不覆盖其二进制和运行库。
 
 ## 与其他系统的关系
 

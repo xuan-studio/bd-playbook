@@ -19,9 +19,9 @@
 
 三个系统分别维护，通过 [系统目录](systems/README.md) 统一查阅：
 
-- [Telegram 频道预处理台](systems/01-channel-preprocessor.md)：源码、演示与部署说明；项目许可证待定。
+- [Telegram 频道预处理台](systems/01-channel-preprocessor.md)：MIT 源码、演示与部署说明。
 - [BD 合作沟通工作台](systems/02-partnership-chat.md)：MIT 源码、本地演示和人工审批。
-- [账号管理与任务执行](systems/03-account-operations.md)：Pengbo 配套说明与虚构示例，不含第三方安装包。
+- [账号管理与任务执行](systems/03-account-operations.md)：Pengbo 配套说明、虚构示例与 Windows 便携安装包。
 - [人工监测 Dashboard](systems/04-human-dashboard.md)：规划中，尚未实现。
 
 系统独立部署，当前没有自动连接。各仓库会记录实际验证范围，不把规划功能写成已完成。
